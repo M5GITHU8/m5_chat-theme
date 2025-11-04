@@ -1,6 +1,6 @@
 version '1.13.3'
-author 'M5FIVEM'
-description 'CHAT MADE BY M5FIVEM'
+author 'M5'
+description 'discord.gg/mi5'
 
 file 'style.css'
 file 'shadow.js'
